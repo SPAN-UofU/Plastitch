@@ -1,0 +1,12 @@
+[submodule "chronos"]
+	path = chronos
+	url = git@bitbucket.org:rose-line/chronos.git
+[submodule "DecaWave-DW1000-BBB-Breakout"]
+	path = DecaWave-DW1000-BBB-Breakout
+	url = git@github.com:SPAN-UofU/DecaWave-DW1000-BBB-Breakout.git
+[submodule "dw1000_bbb"]
+	path = dw1000_bbb
+	url = git@github.com:SPAN-UofU/dw1000_bbb.git
+[submodule "pru"]
+	path = pru
+	url = git@bitbucket.org:anh_luong/pru.git
