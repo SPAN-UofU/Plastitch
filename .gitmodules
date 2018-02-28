@@ -10,3 +10,6 @@
 [submodule "pru"]
 	path = pru
 	url = git@bitbucket.org:anh_luong/pru.git
+[submodule "decawave_twr"]
+	path = decawave_twr
+	url = git@github.com:SPAN-UofU/decawave_twr.git
