@@ -1,4 +1,4 @@
 # Plastitch
 Rebranding previously Chronos / platform for Roseline Project to Plastitch
 
-git submodule init --recursive
+git submodule update --init --recursive
